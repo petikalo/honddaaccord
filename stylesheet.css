@@ -13,3 +13,8 @@ html {
   height: 50px;
 }
 
+h1 {
+  border: 2px solid blue;
+  padding: 10px;
+}
+
