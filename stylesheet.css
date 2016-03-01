@@ -1,4 +1,13 @@
-ul {
-border: 2px solid yellow;
-display: inline;
+html {
+  background-color: black;
+  color: yellow;
+  font-family: Sans-serif;
 }
+
+.cotainer {
+  float: center;
+  text-align: center;
+  padding: 5px;
+  border: 2px solid green;
+}
+
