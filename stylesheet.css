@@ -1,13 +1,13 @@
 html {
-  background-color: green;
+  background-color: black;
   color: yellow;
   font-family: Sans-serif;
 }
 
 .cotainer {
-  float: center;
   text-align: center;
   padding: 5px;
-  border: 2px solid green;
+  border: 2px solid blue;
+  margin: auto;
 }
 
